@@ -1,6 +1,6 @@
 # Java Servlet MySql Application Blog Project
 
-Uygulama Açıklaması
+Blog projesi ile kayıtlı olan kullanıcılar istediği konu üzerinde blog yazısını bir web sitesi üzerinde herkesin görebileceği şekilde paylaşabilir. Uygulamaya girmeden önce kullanıcı girişi yapılması gerekir. Giriş yapan her kullanıcı kendi blog yazısını yazıp, veritabanına kaydedebilir. Bu kısımda her kullanıcı sadece kendi yazdığı blog yazılarını görebilir. Blog yazıları silenebilir ve güncellenebilir. Web sitesinde ise bütün blog yazıları bir arada görülür ve ayrıntılı bilgilerine ulaşılabilir. Ayrıca iletişim sayfası ile kullanıcılara yorum gönderilebilir.
 
 
 
