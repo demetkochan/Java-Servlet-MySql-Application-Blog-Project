@@ -3,6 +3,16 @@
 Blog projesi ile kayıtlı olan kullanıcılar istediği konu üzerinde blog yazısını bir web sitesi üzerinde herkesin görebileceği şekilde paylaşabilir. Uygulamaya girmeden önce kullanıcı girişi yapılması gerekir. Giriş yapan her kullanıcı kendi blog yazısını yazıp, veritabanına kaydedebilir. Bu kısımda her kullanıcı sadece kendi yazdığı blog yazılarını görebilir. Blog yazıları silenebilir ve güncellenebilir. Web sitesinde ise bütün blog yazıları bir arada görülür ve ayrıntılı bilgilerine ulaşılabilir. Ayrıca iletişim sayfası ile kullanıcılara yorum gönderilebilir.
 
 
+## Kullanıcı Girişleri
+
+
+| Admin | :arrow_right: | Şifre |
+| ------------- |:-------------:|:-------------:|
+| demet@mail.com | :arrow_right: | 12345 |
+| erkan@mail.com | :arrow_right: | 12345 |
+| ali@mail.com | :arrow_right: | 12345 |
+
+
 
 ## Kullanılan Diller ve Yetenekler
 
